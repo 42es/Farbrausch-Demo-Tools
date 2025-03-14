@@ -1,0 +1,82 @@
+werkkzeug4-v0.210MAY272012.7z
+Updated May 27, 2012.
+werkkzeug4-v0.210JUN152012.zip
+Updated June 15, 2012.
+werkkzeug4-v0.210JUN222012.zip
+Updated June 22, 2012.
+werkkzeug4-v0.210JUL032012.zip
+Updated July 03, 2012
+Changelog:
+* Merge pull request #56 from wzman/selectgrow
+* Merge pull request #53 from wzman/ribbons
+* New operator - SelectGrow
+* Add multi paralles split
+* Fix ribbons & ribbons2 normals orientation + clean UV code
+werkkzeug4-v0.210JUL082012.zip
+Updated July 08, 2012
+Changelog:
+* fix offset for file compatibility
+* vertex weight for SelectGrow
+* selectgrow fix bugs
+* Fix memory leak
+* Fix unwanted selection bug
+* Improve selectgrow
+werkkzeug4-v0.210JUL142012.zip
+Updated July 14, 2012
+Changelog:
+* updated altona_wz4/demos/example/example.wz4 - v0.210 misc
+* added new shortcuts
+werkkzeug4-v0.210JUL242012.zip
+Updated July 24, 2012
+Changelog:
+* removed double shortcuts and added some new ones
+werkkzeug4-v0.210AUG122012.zip
+Updated August 12, 2012
+Changelog:
+* Make 'Sparcs' (srsly?!?) work on first exec even with SplinedParticles.
+* Splined Particles - initialize Spline, AltSpline.
+* Set up tangent space basis in BlowNoise.
+werkkzeug4-v0.210AUG152012.zip
+Updated August 15, 2012
+Changelog:
+* fix variable name and labels.
+* new operator FromVertex, generate particles nodes from vertices mesh.
+* DeleteFace can now delete associated vertices.
+* new random parameter for FromMesh operator.
+werkkzeug4-v0.210SEP082012.zip
+Updated Sep 08, 2012.
+Changelog:
+* wz4: new op, TransformRange.
+Werkkzeug4-v0.210SEP142012.zip
+Updated Sep 14, 2012.
+Changelog:
+* fixed vs2012 library order and flags
+* wz4 v.201, fresh new binaries (plus x64)
+* cleanups
+werkkzeug4-v0.211SEP302012.zip
+Updated Sep 30, 2012.
+Changelog:
+* add selection flag to FromVertex op
+* Normal Maps support for ribbons and ribbons2
+* fix file format compatibility
+* add selection flag to FromVertex op
+* Chunks: Show 'Rotation' only in fixed mode
+* Wz4 Particles FromVertex: only keep unique vertices, slight selection behavior changes
+werkkzeug4-v0.211OCT162012.zip
+Updated Oct 16, 2012.
+Changelog:
+* customIPP, fix debug window, add parameters for vertex shader
+* CustomIPP add texture filters
+* custom ipp (fix bug) - end loop condition for nbr max texture
+* CustomIPP (New operator)
+* new operator TextEx (big text field with line numbers)
+werkkzeug4-v0.211NOV112012.zip
+Updated Nov 11, 2012.
+Changelog:
+* customMaterial, fix to support textures
+* morph (new operator) based on mesh vertices and particles
+* add colors for clip and multiclip op
+* CustomIPP, define and pass screen resolution to pixel shader
+* Morph, fix particle count bug
+* customMaterial, clean unwanted anim flags in ops
+Werkkzeug4-v0.211AUG052013.zip
